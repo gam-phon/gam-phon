@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](/github-metrics.svg)
+
 <!--
 **gam-phon/gam-phon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
