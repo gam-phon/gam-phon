@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Yaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=gam-phon&show_icons=true&count_private=true)
+
+
 ![Metrics](/github-metrics.svg)
 
 <!--
